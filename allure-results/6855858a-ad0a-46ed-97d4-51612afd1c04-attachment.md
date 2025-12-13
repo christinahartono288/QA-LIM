@@ -1,0 +1,328 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - img [ref=e6] [cursor=pointer]
+      - text: 
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]:
+          - generic [ref=e16] [cursor=pointer]: 
+          - generic [ref=e18] [cursor=pointer]:
+            - generic [ref=e21]: 
+            - text: 
+        - generic [ref=e24] [cursor=pointer]:
+          - generic [ref=e27]: 
+          - text: 
+        - generic [ref=e28]:
+          - generic [ref=e29] [cursor=pointer]:
+            - generic [ref=e30]: Cash & Bank
+            - generic [ref=e34]: 
+          - generic [ref=e39] [cursor=pointer]: 
+          - generic [ref=e44] [cursor=pointer]: 
+          - generic [ref=e49] [cursor=pointer]: 
+        - generic [ref=e50]:
+          - generic [ref=e52] [cursor=pointer]:
+            - generic [ref=e55]: 
+            - text: 
+          - generic [ref=e60] [cursor=pointer]: 
+        - generic [ref=e66] [cursor=pointer]: 
+      - generic [ref=e67]: V 1.2.0
+  - generic [ref=e68]:
+    - generic [ref=e72]:
+      - generic [ref=e73]:
+        - generic [ref=e74]: CASH AND BANK
+        - generic [ref=e75]:
+          - generic [ref=e82]:
+            - textbox "Search" [ref=e83]
+            - generic [ref=e85]: 
+          - button "CREATE TRANSACTION " [ref=e88] [cursor=pointer]:
+            - generic [ref=e89]: CREATE TRANSACTION
+            - generic [ref=e90]: 
+      - table [ref=e94]:
+        - rowgroup [ref=e95]:
+          - row "Account Code  Account Name  Currency  Statement Balance  Balance in Jurnal " [ref=e96]:
+            - columnheader "Account Code " [ref=e97]:
+              - generic [ref=e98]:
+                - text: Account Code
+                - generic [ref=e100] [cursor=pointer]: 
+            - columnheader "Account Name " [ref=e101]:
+              - generic [ref=e102]:
+                - text: Account Name
+                - generic [ref=e104] [cursor=pointer]: 
+            - columnheader "Currency " [ref=e105]:
+              - generic [ref=e106]:
+                - text: Currency
+                - generic [ref=e108] [cursor=pointer]: 
+            - columnheader "Statement Balance " [ref=e109]:
+              - generic [ref=e110]:
+                - text: Statement Balance
+                - generic [ref=e112] [cursor=pointer]: 
+            - columnheader "Balance in Jurnal " [ref=e113]:
+              - generic [ref=e114]:
+                - text: Balance in Jurnal
+                - generic [ref=e116] [cursor=pointer]: 
+            - columnheader [ref=e117]
+        - rowgroup [ref=e119]:
+          - row "1-10-01 Cash IDR  IDR Rp. 0,00 (Rp. 1.353.960,36)" [ref=e120] [cursor=pointer]:
+            - cell "1-10-01" [ref=e121]:
+              - generic [ref=e123]: 1-10-01
+            - cell "Cash IDR " [ref=e124]:
+              - generic [ref=e126]:
+                - text: Cash IDR
+                - generic [ref=e127]: 
+            - cell "IDR" [ref=e128]:
+              - generic [ref=e129]: IDR
+            - cell "Rp. 0,00" [ref=e130]:
+              - generic [ref=e132]: Rp. 0,00
+            - cell "(Rp. 1.353.960,36)" [ref=e133]:
+              - generic [ref=e135]: (Rp. 1.353.960,36)
+            - cell [ref=e136]
+          - row "1-10-02 Current - BCA - IDR  IDR Rp. 0,00 Rp. 158.668.001,79" [ref=e137] [cursor=pointer]:
+            - cell "1-10-02" [ref=e138]:
+              - generic [ref=e140]: 1-10-02
+            - cell "Current - BCA - IDR " [ref=e141]:
+              - generic [ref=e143]:
+                - text: Current - BCA - IDR
+                - generic [ref=e144]: 
+            - cell "IDR" [ref=e145]:
+              - generic [ref=e146]: IDR
+            - cell "Rp. 0,00" [ref=e147]:
+              - generic [ref=e149]: Rp. 0,00
+            - cell "Rp. 158.668.001,79" [ref=e150]:
+              - generic [ref=e152]: Rp. 158.668.001,79
+            - cell [ref=e153]
+          - row "1-10-03 Current - BNI - IDR  IDR Rp. 0,00 (Rp. 852.929.379,00)" [ref=e154] [cursor=pointer]:
+            - cell "1-10-03" [ref=e155]:
+              - generic [ref=e157]: 1-10-03
+            - cell "Current - BNI - IDR " [ref=e158]:
+              - generic [ref=e160]:
+                - text: Current - BNI - IDR
+                - generic [ref=e161]: 
+            - cell "IDR" [ref=e162]:
+              - generic [ref=e163]: IDR
+            - cell "Rp. 0,00" [ref=e164]:
+              - generic [ref=e166]: Rp. 0,00
+            - cell "(Rp. 852.929.379,00)" [ref=e167]:
+              - generic [ref=e169]: (Rp. 852.929.379,00)
+            - cell [ref=e170]
+          - row "1-10-04 Current - Mandiri - IDR  IDR Rp. 0,00 Rp. 672.070,00" [ref=e171] [cursor=pointer]:
+            - cell "1-10-04" [ref=e172]:
+              - generic [ref=e174]: 1-10-04
+            - cell "Current - Mandiri - IDR " [ref=e175]:
+              - generic [ref=e177]:
+                - text: Current - Mandiri - IDR
+                - generic [ref=e178]: 
+            - cell "IDR" [ref=e179]:
+              - generic [ref=e180]: IDR
+            - cell "Rp. 0,00" [ref=e181]:
+              - generic [ref=e183]: Rp. 0,00
+            - cell "Rp. 672.070,00" [ref=e184]:
+              - generic [ref=e186]: Rp. 672.070,00
+            - cell [ref=e187]
+          - row "1-10-05 Current - Lestari - IDR  IDR Rp. 0,00 (Rp. 385.200,00)" [ref=e188] [cursor=pointer]:
+            - cell "1-10-05" [ref=e189]:
+              - generic [ref=e191]: 1-10-05
+            - cell "Current - Lestari - IDR " [ref=e192]:
+              - generic [ref=e194]:
+                - text: Current - Lestari - IDR
+                - generic [ref=e195]: 
+            - cell "IDR" [ref=e196]:
+              - generic [ref=e197]: IDR
+            - cell "Rp. 0,00" [ref=e198]:
+              - generic [ref=e200]: Rp. 0,00
+            - cell "(Rp. 385.200,00)" [ref=e201]:
+              - generic [ref=e203]: (Rp. 385.200,00)
+            - cell [ref=e204]
+          - row "1-10-06 Deposito I - BNI - IDR  IDR Rp. 0,00 Rp. 0,00" [ref=e205] [cursor=pointer]:
+            - cell "1-10-06" [ref=e206]:
+              - generic [ref=e208]: 1-10-06
+            - cell "Deposito I - BNI - IDR " [ref=e209]:
+              - generic [ref=e211]:
+                - text: Deposito I - BNI - IDR
+                - generic [ref=e212]: 
+            - cell "IDR" [ref=e213]:
+              - generic [ref=e214]: IDR
+            - cell "Rp. 0,00" [ref=e215]:
+              - generic [ref=e217]: Rp. 0,00
+            - cell "Rp. 0,00" [ref=e218]:
+              - generic [ref=e220]: Rp. 0,00
+            - cell [ref=e221]
+          - row "1-10-07 Deposito II - BNI - IDR  IDR Rp. 0,00 Rp. 0,00" [ref=e222] [cursor=pointer]:
+            - cell "1-10-07" [ref=e223]:
+              - generic [ref=e225]: 1-10-07
+            - cell "Deposito II - BNI - IDR " [ref=e226]:
+              - generic [ref=e228]:
+                - text: Deposito II - BNI - IDR
+                - generic [ref=e229]: 
+            - cell "IDR" [ref=e230]:
+              - generic [ref=e231]: IDR
+            - cell "Rp. 0,00" [ref=e232]:
+              - generic [ref=e234]: Rp. 0,00
+            - cell "Rp. 0,00" [ref=e235]:
+              - generic [ref=e237]: Rp. 0,00
+            - cell [ref=e238]
+          - row "1-10-08 Deposito III - BNI - IDR  IDR Rp. 0,00 Rp. 1.000.000,00" [ref=e239] [cursor=pointer]:
+            - cell "1-10-08" [ref=e240]:
+              - generic [ref=e242]: 1-10-08
+            - cell "Deposito III - BNI - IDR " [ref=e243]:
+              - generic [ref=e245]:
+                - text: Deposito III - BNI - IDR
+                - generic [ref=e246]: 
+            - cell "IDR" [ref=e247]:
+              - generic [ref=e248]: IDR
+            - cell "Rp. 0,00" [ref=e249]:
+              - generic [ref=e251]: Rp. 0,00
+            - cell "Rp. 1.000.000,00" [ref=e252]:
+              - generic [ref=e254]: Rp. 1.000.000,00
+            - cell [ref=e255]
+          - row "1-10-09 Deposito I - BCA - IDR  IDR Rp. 0,00 Rp. 0,00" [ref=e256] [cursor=pointer]:
+            - cell "1-10-09" [ref=e257]:
+              - generic [ref=e259]: 1-10-09
+            - cell "Deposito I - BCA - IDR " [ref=e260]:
+              - generic [ref=e262]:
+                - text: Deposito I - BCA - IDR
+                - generic [ref=e263]: 
+            - cell "IDR" [ref=e264]:
+              - generic [ref=e265]: IDR
+            - cell "Rp. 0,00" [ref=e266]:
+              - generic [ref=e268]: Rp. 0,00
+            - cell "Rp. 0,00" [ref=e269]:
+              - generic [ref=e271]: Rp. 0,00
+            - cell [ref=e272]
+          - row "1-10-10 Deposito II - BCA - IDR  IDR Rp. 0,00 Rp. 0,00" [ref=e273] [cursor=pointer]:
+            - cell "1-10-10" [ref=e274]:
+              - generic [ref=e276]: 1-10-10
+            - cell "Deposito II - BCA - IDR " [ref=e277]:
+              - generic [ref=e279]:
+                - text: Deposito II - BCA - IDR
+                - generic [ref=e280]: 
+            - cell "IDR" [ref=e281]:
+              - generic [ref=e282]: IDR
+            - cell "Rp. 0,00" [ref=e283]:
+              - generic [ref=e285]: Rp. 0,00
+            - cell "Rp. 0,00" [ref=e286]:
+              - generic [ref=e288]: Rp. 0,00
+            - cell [ref=e289]
+          - row "1-10-11 Deposito - Lestari - IDR  IDR Rp. 0,00 (Rp. 5.000,00)" [ref=e290] [cursor=pointer]:
+            - cell "1-10-11" [ref=e291]:
+              - generic [ref=e293]: 1-10-11
+            - cell "Deposito - Lestari - IDR " [ref=e294]:
+              - generic [ref=e296]:
+                - text: Deposito - Lestari - IDR
+                - generic [ref=e297]: 
+            - cell "IDR" [ref=e298]:
+              - generic [ref=e299]: IDR
+            - cell "Rp. 0,00" [ref=e300]:
+              - generic [ref=e302]: Rp. 0,00
+            - cell "(Rp. 5.000,00)" [ref=e303]:
+              - generic [ref=e305]: (Rp. 5.000,00)
+            - cell [ref=e306]
+          - row "1-10-21 Cash USD  USD US$ 0,00 US$ 1.700.879,94" [ref=e307] [cursor=pointer]:
+            - cell "1-10-21" [ref=e308]:
+              - generic [ref=e310]: 1-10-21
+            - cell "Cash USD " [ref=e311]:
+              - generic [ref=e313]:
+                - text: Cash USD
+                - generic [ref=e314]: 
+            - cell "USD" [ref=e315]:
+              - generic [ref=e316]: USD
+            - cell "US$ 0,00" [ref=e317]:
+              - generic [ref=e319]: US$ 0,00
+            - cell "US$ 1.700.879,94" [ref=e320]:
+              - generic [ref=e322]: US$ 1.700.879,94
+            - cell [ref=e323]
+          - row "1-10-22 Current - BCA - USD  USD US$ 0,00 (US$ 213,55)" [ref=e324] [cursor=pointer]:
+            - cell "1-10-22" [ref=e325]:
+              - generic [ref=e327]: 1-10-22
+            - cell "Current - BCA - USD " [ref=e328]:
+              - generic [ref=e330]:
+                - text: Current - BCA - USD
+                - generic [ref=e331]: 
+            - cell "USD" [ref=e332]:
+              - generic [ref=e333]: USD
+            - cell "US$ 0,00" [ref=e334]:
+              - generic [ref=e336]: US$ 0,00
+            - cell "(US$ 213,55)" [ref=e337]:
+              - generic [ref=e339]: (US$ 213,55)
+            - cell [ref=e340]
+          - row "1-10-23 Current - BNI - USD  USD US$ 0,00 US$ 68,43" [ref=e341] [cursor=pointer]:
+            - cell "1-10-23" [ref=e342]:
+              - generic [ref=e344]: 1-10-23
+            - cell "Current - BNI - USD " [ref=e345]:
+              - generic [ref=e347]:
+                - text: Current - BNI - USD
+                - generic [ref=e348]: 
+            - cell "USD" [ref=e349]:
+              - generic [ref=e350]: USD
+            - cell "US$ 0,00" [ref=e351]:
+              - generic [ref=e353]: US$ 0,00
+            - cell "US$ 68,43" [ref=e354]:
+              - generic [ref=e356]: US$ 68,43
+            - cell [ref=e357]
+          - row "1-10-24 Current - Mandiri - USD  USD US$ 0,00 US$ 45,82" [ref=e358] [cursor=pointer]:
+            - cell "1-10-24" [ref=e359]:
+              - generic [ref=e361]: 1-10-24
+            - cell "Current - Mandiri - USD " [ref=e362]:
+              - generic [ref=e364]:
+                - text: Current - Mandiri - USD
+                - generic [ref=e365]: 
+            - cell "USD" [ref=e366]:
+              - generic [ref=e367]: USD
+            - cell "US$ 0,00" [ref=e368]:
+              - generic [ref=e370]: US$ 0,00
+            - cell "US$ 45,82" [ref=e371]:
+              - generic [ref=e373]: US$ 45,82
+            - cell [ref=e374]
+          - row "1-10010 Customer Payment - USD  IDR Rp. 0,00 Rp. 0,00" [ref=e375] [cursor=pointer]:
+            - cell "1-10010" [ref=e376]:
+              - generic [ref=e378]: 1-10010
+            - cell "Customer Payment - USD " [ref=e379]:
+              - generic [ref=e381]:
+                - text: Customer Payment - USD
+                - generic [ref=e382]: 
+            - cell "IDR" [ref=e383]:
+              - generic [ref=e384]: IDR
+            - cell "Rp. 0,00" [ref=e385]:
+              - generic [ref=e387]: Rp. 0,00
+            - cell "Rp. 0,00" [ref=e388]:
+              - generic [ref=e390]: Rp. 0,00
+            - cell [ref=e391]
+          - row "1-10011 Titipan Transfer  IDR Rp. 0,00 Rp. 30.060.000,00" [ref=e392] [cursor=pointer]:
+            - cell "1-10011" [ref=e393]:
+              - generic [ref=e395]: 1-10011
+            - cell "Titipan Transfer " [ref=e396]:
+              - generic [ref=e398]:
+                - text: Titipan Transfer
+                - generic [ref=e399]: 
+            - cell "IDR" [ref=e400]:
+              - generic [ref=e401]: IDR
+            - cell "Rp. 0,00" [ref=e402]:
+              - generic [ref=e404]: Rp. 0,00
+            - cell "Rp. 30.060.000,00" [ref=e405]:
+              - generic [ref=e407]: Rp. 30.060.000,00
+            - cell [ref=e408]
+      - list [ref=e412]:
+        - button "" [disabled] [ref=e413] [cursor=pointer]:
+          - generic [ref=e414]: 
+        - generic [ref=e415]:
+          - listitem [ref=e416]: 1 - 10
+          - listitem [ref=e417]: of
+          - listitem [ref=e418]: "10"
+          - listitem [ref=e419]: list
+        - button "" [disabled] [ref=e420] [cursor=pointer]:
+          - generic [ref=e421]: 
+    - generic [ref=e423]:
+      - generic [ref=e424]:
+        - text: 
+        - generic [ref=e426]: CASH & BANK
+      - generic [ref=e427]:
+        - generic [ref=e428]:
+          - generic [ref=e431] [cursor=pointer]: D
+          - generic [ref=e432] [cursor=pointer]:
+            - paragraph [ref=e433]: devonebyone
+            - paragraph [ref=e434]: Admin User
+        - generic [ref=e436] [cursor=pointer]: 
+```

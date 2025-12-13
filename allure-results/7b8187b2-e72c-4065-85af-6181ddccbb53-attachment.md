@@ -1,0 +1,128 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - img [ref=e6] [cursor=pointer]
+      - text: 
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]:
+          - generic [ref=e16] [cursor=pointer]: 
+          - generic [ref=e18] [cursor=pointer]:
+            - generic [ref=e21]: 
+            - text: 
+        - generic [ref=e24] [cursor=pointer]:
+          - generic [ref=e27]: 
+          - text: 
+        - generic [ref=e28]:
+          - generic [ref=e33] [cursor=pointer]: 
+          - generic [ref=e38] [cursor=pointer]: 
+          - generic [ref=e43] [cursor=pointer]: 
+          - generic [ref=e48] [cursor=pointer]: 
+        - generic [ref=e49]:
+          - generic [ref=e51] [cursor=pointer]:
+            - generic [ref=e54]: 
+            - text: 
+          - generic [ref=e59] [cursor=pointer]: 
+        - generic [ref=e65] [cursor=pointer]: 
+      - generic [ref=e66]: V 1.2.0
+  - generic [ref=e67]:
+    - generic [ref=e70]:
+      - generic [ref=e71]:
+        - generic [ref=e72]:
+          - generic [ref=e73]: CASH & BANK
+          - generic [ref=e74]: BANK INTERNAL TRANSFER
+        - generic [ref=e75]:
+          - generic [ref=e77]:
+            - generic [ref=e78]:
+              - generic [ref=e79]: Currency Information
+              - generic [ref=e80]:
+                - text: Currency before proceeding with any
+                - text: transactions
+            - generic [ref=e84]:
+              - paragraph [ref=e87]: "*CURRENCY"
+              - generic [ref=e88]:
+                - log [ref=e90]
+                - generic [ref=e91] [cursor=pointer]:
+                  - generic [ref=e92]:
+                    - generic [ref=e93]: IDR
+                    - combobox [ref=e95]
+                  - img [ref=e99]
+          - generic [ref=e104]:
+            - generic [ref=e105]: Transaction Details
+            - generic [ref=e106]: Please enter the transaction details below.
+          - generic [ref=e107]:
+            - generic [ref=e110]:
+              - paragraph [ref=e113]: "*TRANSFER FROM"
+              - generic [ref=e114]:
+                - log [ref=e116]
+                - generic [ref=e117] [cursor=pointer]:
+                  - generic [ref=e118]:
+                    - generic [ref=e119]: Select Payment Account
+                    - combobox [ref=e121]
+                  - img [ref=e125]
+            - generic [ref=e129]:
+              - paragraph [ref=e132]: "*DEPOSIT TO"
+              - generic [ref=e133]:
+                - log [ref=e135]
+                - generic [ref=e136] [cursor=pointer]:
+                  - generic [ref=e137]:
+                    - generic [ref=e138]: Select Payment Account
+                    - combobox [ref=e140]
+                  - img [ref=e144]
+          - generic [ref=e150]:
+            - paragraph [ref=e152]: "*AMOUNT"
+            - generic [ref=e153]:
+              - generic [ref=e155]: IDR
+              - textbox "0,00" [ref=e157]
+          - generic [ref=e160]:
+            - generic [ref=e161]:
+              - generic [ref=e162]: Transaction Information
+              - generic [ref=e163]: Please enter the transaction information below.
+              - generic [ref=e164]:
+                - generic [ref=e167]:
+                  - paragraph [ref=e169]: TRANSACTION NO
+                  - generic [ref=e170]:
+                    - textbox "Auto Generated" [disabled] [ref=e171]: 2512-00003
+                    - generic [ref=e174] [cursor=pointer]: 
+                - generic [ref=e178]:
+                  - generic [ref=e179]:
+                    - paragraph [ref=e181]: TRANSACTION DATE
+                    - textbox "Select Date" [ref=e183]: 08/12/2025
+                  - generic [ref=e184] [cursor=pointer]: 
+                  - generic [ref=e185] [cursor=pointer]: 
+            - generic [ref=e186]:
+              - generic [ref=e187]: Attach Document
+              - generic [ref=e188]: Upload supporting documents for this transaction.
+              - generic [ref=e192]:
+                - generic [ref=e193] [cursor=pointer]: BROWSE FILE
+                - generic [ref=e194]: No file choosen
+          - generic [ref=e197]:
+            - generic [ref=e198]:
+              - generic [ref=e199]: Additional Information
+              - generic [ref=e203]:
+                - paragraph [ref=e206]: INTERNAL NOTES
+                - textbox "Add Internal Notes" [ref=e207]
+            - generic [ref=e209]:
+              - generic [ref=e210]: Amount
+              - generic [ref=e211]: Rp. 0,00
+        - generic [ref=e212]:
+          - button "CANCEL" [ref=e213] [cursor=pointer]:
+            - generic [ref=e214]: CANCEL
+          - button "CREATE TRANSACTION" [ref=e215] [cursor=pointer]:
+            - generic [ref=e216]: CREATE TRANSACTION
+      - text:  
+    - generic [ref=e218]:
+      - generic [ref=e219]:
+        - text: 
+        - generic [ref=e221]: CASH & BANK
+      - generic [ref=e222]:
+        - generic [ref=e223]:
+          - generic [ref=e226] [cursor=pointer]: D
+          - generic [ref=e227] [cursor=pointer]:
+            - paragraph [ref=e228]: devonebyone
+            - paragraph [ref=e229]: Admin User
+        - generic [ref=e231] [cursor=pointer]: 
+```
